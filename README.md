@@ -1,7 +1,7 @@
 # Express.js on Netlify Example
 
 [![Deploy to
-Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/neverendingqs/netlify-express)
+Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Sendiradid/bestseller-serverless-backend)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b8e9b78b-2021-4687-a0a4-133d4d51bc58/deploy-status)](https://app.netlify.com/sites/bestseller-api/deploys)
 
