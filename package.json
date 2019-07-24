@@ -1,5 +1,5 @@
 {
-  "name": "netlify-express",
+  "name": "bestseller-serverless-backend",
   "version": "0.0.1",
   "description": "Example of how to deploy a Express.js Netlify app.",
   "main": "functions/server.js",
@@ -21,7 +21,10 @@
     "url": "https://github.com/neverendingqs/netlify-express/issues"
   },
   "homepage": "https://github.com/neverendingqs/netlify-express#readme",
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "express-request-proxy": "^2.2.2"
+  },
   "devDependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
